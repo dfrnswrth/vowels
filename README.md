@@ -16,6 +16,12 @@ Write your solution in a new branch/fork of this repo your solution as a pull re
 * Assume that all input is valid.
 * Sample input files have been provided, but your solution will be tested against additional inputs
 
+#### To run this program:
+* Open a terminal window
+* cd to the directory where the files live (ex. cd Documents/vowels)
+* run the command 'node index.js'
+* when prompted, enter file path for txt files (ex. inputs/sample.txt
+
 ### Example
 #### Sample Input
 ```
