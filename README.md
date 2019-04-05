@@ -2,6 +2,13 @@
 
 *Create a program to count the number of vowels in a each given input string.*
 
+
+#### To run this program:
+* Open a terminal window
+* cd to the directory where the files live (ex. cd Documents/vowels)
+* run the command 'node index.js'
+* when prompted, enter file path for txt files (ex. inputs/sample.txt)
+
 ### Task
 
 Write a program in javascript that takes a text file as input and for each line in the file outputs the count of vowels in all possible substrings of the line.
@@ -15,12 +22,6 @@ Write your solution in a new branch/fork of this repo your solution as a pull re
 * Lines of input will contain only uppercase and lowercase letters.
 * Assume that all input is valid.
 * Sample input files have been provided, but your solution will be tested against additional inputs
-
-#### To run this program:
-* Open a terminal window
-* cd to the directory where the files live (ex. cd Documents/vowels)
-* run the command 'node index.js'
-* when prompted, enter file path for txt files (ex. inputs/sample.txt
 
 ### Example
 #### Sample Input
